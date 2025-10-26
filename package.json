@@ -1,6 +1,6 @@
 {
     "name": "first-plugin",
-    "displayName": "Какой-то плагин",
+    "displayName": "Напоминание",
     "version": "1.0.0",
     "engines": {"vscode": "^1.104.2"},
     "main": "extension.js",
