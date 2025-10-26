@@ -1,7 +1,7 @@
 const vscode = require("vscode");
 
 function activate() {
-    vscode.window.showInformationMessage("Плагин работает");
+    vscode.window.showInformationMessage("Какое-то напоминание по проекту");
 }
 
 function deactivate() {}
